@@ -1,4 +1,4 @@
-use questions
+use Inventory_Management
 create table products(
 product_id int,
 product_name varchar(30),
